@@ -1,0 +1,11 @@
+# stops.txt
+New York,40.7128,-74.0060,false,Visa required for non-US citizens
+London,51.5074,-0.1278,true,UK visa required - Standard Visitor
+Dubai,25.2048,55.2708,true,UAE Transit visa required
+Singapore,1.3521,103.8198,true,Singapore Transit visa required
+Sydney,-33.8688,151.2093,true,Australian visa required
+Tokyo,35.6762,139.6503,true,Japan Transit visa required
+Paris,48.8566,2.3522,true,Schengen visa required
+Mumbai,19.0760,72.8777,true,Indian visa required
+Cairo,30.0444,31.2357,true,Egyptian visa required
+Beijing,39.9042,116.4074,true,Chinese visa required
